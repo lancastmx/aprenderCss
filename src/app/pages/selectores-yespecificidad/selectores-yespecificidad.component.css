@@ -1,0 +1,11 @@
+div:has(p) {
+    border: 2px solid green;
+    padding: 10px;
+    margin: 10px 0;
+}
+div:has(li) {
+    background-color: #4685bd;
+    padding: 10px;
+    margin: 10px 0;
+    color: white;
+}
